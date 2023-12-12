@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/home/anisha/Downloads/TasksLocal/ReactApplication",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
